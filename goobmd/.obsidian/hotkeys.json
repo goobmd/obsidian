@@ -7,5 +7,14 @@
       "key": "T"
     }
   ],
-  "workspace:new-tab": []
+  "workspace:new-tab": [],
+  "yet-another-obsidian-synchronizer:sync": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ]
 }
