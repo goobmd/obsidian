@@ -1,9 +1,9 @@
 {
-  "cssTheme": "Catppuccin",
-  "textFontFamily": "CommitMono Nerd Font",
-  "interfaceFontFamily": "AurulentSansM Nerd Font",
-  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "cssTheme": "mono black (monochrome, charcoal)",
+  "textFontFamily": "CommitMono Nerd Font,American Typewriter",
+  "interfaceFontFamily": "AurulentSansM Nerd Font,Consolas",
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono,MS Gothic",
   "baseFontSize": 20,
-  "accentColor": "",
+  "accentColor": "#ffffff",
   "theme": "obsidian"
 }

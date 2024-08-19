@@ -1,3 +1,4 @@
+[[music]]
 I had an idea to create an audio rack to use as a sort of portable studio with the capability to plug in various instruments and mix all of them on the go. To call it one mega rack is a lie as I would likely split the racks depending on the various instruments I would like to record.
 
 ## Base Design

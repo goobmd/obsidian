@@ -60,12 +60,181 @@
             }
           },
           {
-            "id": "8ea24ef158747fac",
+            "id": "c0faedfbf74b31f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Indexes/Indexes.md",
+                "file": "6 - Full Notes/Scientific Notation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f8a1542ec95dd82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/States of Matter.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d81bd4b28da1921",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Unit 1 - Trigonometry.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e04a324d51c964d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Tags/mathematics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96e66f608fcc1ef2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Tags/science.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f0220197c126988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Tags/solid.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0507b09c88f4b597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Tags/liquid.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b895d2ffdd38cdcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Tags/gas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acd78ce4683242c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Tags/plasma.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bbb700597570082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Unit 1 - Trigonometry.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "768382e33402a24c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Tags/physics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f009a02a3d6793e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/Bismuth Metal.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c58f99ba75d65e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Scientific Notation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad77dc31d79165ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/SI Base Units.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -139,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Indexes/Indexes.md",
+                "file": "6 - Full Notes/SI Base Units.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Indexes/Indexes.md",
+                "file": "6 - Full Notes/SI Base Units.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Indexes/Indexes.md"
+                "file": "6 - Full Notes/SI Base Units.md"
               }
             }
           },
@@ -210,29 +379,42 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8ea24ef158747fac",
+  "active": "ad77dc31d79165ae",
   "lastOpenFiles": [
+    "6 - Full Notes/Unit 1 - Trigonometry.md",
+    "6 - Full Notes/Scientific Notation.md",
+    "6 - Full Notes/SI Base Units.md",
+    "6 - Full Notes/States of Matter.md",
+    "2 - Source Material/image137-2875776455.jpg",
+    "2 - Source Material/Labeled-Phase-Change-Diagram-768x667-9510254 1.jpg",
+    "2 - Source Material/Labeled-Phase-Change-Diagram-768x667-9510254.jpg",
+    "2 - Source Material/States-matter-3751601143 1.jpg",
+    "2 - Source Material/States-matter-3751601143.jpg",
+    "2 - Source Material/LiquidState-300x213-1803808703.png",
+    "1 - Rough Notes/euphoria.md",
+    "3 - Tags/music.md",
+    "1 - Rough Notes/Bismuth Metal.md",
     "1 - Rough Notes/Audio Rack.md",
-    "4 - Indexes/Indexes.md",
+    "3 - Tags/chemistry.md",
+    "3 - Tags/liquid.md",
+    "3 - Tags/physics.md",
+    "3 - Tags/trigonometry.md",
+    "3 - Tags/plasma.md",
+    "3 - Tags/gas.md",
+    "3 - Tags/solid.md",
+    "3 - Tags/science.md",
+    "3 - Tags/mathematics.md",
+    "3 - Tags/linux.md",
     "6 - Full Notes/riceman.md",
+    "5 - Template/Source Material.md",
+    "4 - Indexes/Indexes.md",
     "2 - Source Material/Bash Cheatsheet.md",
     "2 - Source Material/Bash Beginners Guide.md",
     "2 - Source Material/Bash Advanced Guide.md",
-    "5 - Template/Source Material.md",
     "5 - Template/Full Note.md",
-    "3 - Tags/project.md",
-    "3 - Tags/programming.md",
-    "3 - Tags/linux.md",
-    "1 - Rough Notes/euphoria.md",
-    "3 - Tags/gay.md",
-    "I love sucking dick.md",
-    "I hate sucking duck.md",
     "Documents/obsidian/goobmd",
-    "Documents/obsidian/README.md",
     "Documents/obsidian",
     "Documents",
-    "1 - Rough Notes/Untitled.md",
-    "Welcome.md",
     "6 - Full Notes",
     "5 - Template",
     "4 - Indexes",
